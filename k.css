@@ -1,0 +1,192 @@
+.f{
+    background-color:darkslategrey ;
+    width: 250px;
+    height: 640px;
+    display:inline-block;
+    position: fixed;
+
+
+    
+}
+
+.tr{
+    background-image: url(y.jpg) ;
+    width: 855px;
+    height: 640px;
+    margin-left: 247px;
+    background-repeat:no-repeat;
+    background-size:cover;
+
+}
+.aw{
+    font-size: 70px;
+    font-family:Lucida Handwriting;
+    margin-top: -6px;
+    color: darkslategrey;
+}
+.k{
+    width: 120px;
+    height: 70px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.jj{
+    width: 150px;
+    height: 130px;
+    border-radius: 50px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.m{
+    width: 150px;
+    height: 40px;
+    color: cadetblue;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 40px;
+    text-decoration: none;
+    
+}
+.f a:hover{
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+
+    
+}
+.h{
+    width: 746px;
+    height: 350px;
+    margin-left: 300px;
+    box-shadow: 0 5px 30px black;
+    border-radius: 30px;
+
+}
+.d{
+background-color: darkslategrey;
+width: 250px;
+height: 640px;
+display:inline-block;
+position: fixed;
+margin-left: 1097px;
+
+}
+.z{
+    margin-top: -325px;
+    margin-left: 355px;
+   font-size: 35px;
+}
+.ju{
+    margin-left: 30px;
+    text-decoration: none;
+    width: 170px;
+    height: 65px;
+    color: darkslategrey;
+    font-size: 40px;
+    border-radius: 15px;
+}
+.tr button:hover{
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+
+}
+.gg{
+    margin-left: 30px;
+    text-decoration: none;
+}
+.d a:hover{
+    background-color: cadetblue;
+    color: black;
+    border-radius: 20px;
+}
+.x{
+    width: 150px;
+
+
+}
+.v{
+    color: dimgrey;
+}
+.frist{
+    width: 400px;
+    height: 150px;
+    margin-left: 342px;
+    display: flex;
+    margin-top: 8px;
+
+flex-wrap: wrap;
+display: grid;
+grid-template-columns: 150px 150px;
+column-gap: 20px;
+row-gap: -49px;
+}
+.bb{
+    width: 270px;
+    margin-top: -5px;
+    margin-left: 170px;
+
+}
+.hhh{width: 746px;
+    height: 400px;
+    margin-left: 300px;
+    box-shadow: 0 5px 30px black;
+    border-radius: 30px;
+
+
+}
+.ds
+{
+    margin-left: 250px;
+width: 870px;
+height: 550px;
+}
+.cc{
+    margin-left: 550px;
+    width: 270px;
+    height: 600px;
+    margin-top: 30px;
+}
+.cc :hover{
+    box-shadow: 0 5px 30px black;
+    border-radius: 15px;
+
+}
+.kj{
+    background-color: cadetblue;
+width: 90px;
+height: 30px;
+}
+.fd{
+    margin-left: 250px;
+    width: 870px;
+    height: 100px;
+    background-color: darkslategray;
+}
+.fa-brands {
+    background-color:darkslategray;
+    width: 30px;
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 432px;
+}
+@media (max-width:1023px){
+    .f{
+        
+    background-color:darkslategrey ;
+    width: 250px;
+    height: 640px;
+    display:inline-block;
+    position: fixed;
+
+
+    }
+
+}
+@media (max-width:641px){
+    .f{
+        background-color: rgb(114, 53, 53);
+    }
+}
